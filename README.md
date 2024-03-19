@@ -17,7 +17,8 @@ tool wear [min]: Tool wear values are dependent on the product quality variants,
 'machine failure' label: Indicates whether the machine has failed in this particular data point for any of the following failure modes.
 
 
-#Features
+# Features
+
 Target : Failure or Not
 
 Failure Type : Type of Failure
