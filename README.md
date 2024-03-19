@@ -15,3 +15,9 @@ torque [Nm]: Torque values are normally distributed around 40 Nm with a standard
 tool wear [min]: Tool wear values are dependent on the product quality variants, where H/M/L add 5/3/2 minutes of tool wear, respectively.
 
 'machine failure' label: Indicates whether the machine has failed in this particular data point for any of the following failure modes.
+
+
+#Features
+Target : Failure or Not
+
+Failure Type : Type of Failure
